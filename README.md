@@ -2,6 +2,11 @@
 
 Minimal Rails 8 application. It provides a barebones employee recognition feature with simple, hand‑rolled email/password auth and intentionally light styling. Your job (as a candidate) will be to enhance UX/UI, add interactivity, improve structure, and/or extend features.
 
+## Your Mission
+Improve the look, feel and user experience of this application using your best judgement and skills. We would like to see:
+* Improved styling of the application both logged out and logged in using Bootstrap 5
+* Improved interactivity with javascript, ideally Hotwire/Turbo/Stimulus based javascript.
+
 ---
 ## 1. Tech Stack
 Rails 8 (Ruby 3.3)
